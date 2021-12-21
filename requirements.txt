@@ -1,0 +1,6 @@
+jupyter
+nose
+bs4
+nltk
+pandas
+vaderSentiment
